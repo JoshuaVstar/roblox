@@ -1,0 +1,81 @@
+li{
+    color: rgb(255, 47, 0);
+    background-color: #fcaa05;
+}
+h1{
+    color: rgb(195, 247, 5);
+    background-color: rgb(1, 188, 35);
+    text-align: center;
+    font-size: 5vw;
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    background-color: rgb(5, 5, 248);
+}
+a {
+    color: rgb(255, 0, 200);
+}
+body{
+   background-image: url(../img/1046.png);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    background-color: gold;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    border: 15px solid red;
+}
+.navbar{
+    background-color:rgb(157, 0, 255);
+    border: solid rgb(255, 196, 0);
+    font-size: 20px;
+    position: sticky;
+    top: 0px;
+
+}
+.navbar th{
+    border: solid rgb(0, 255, 166);
+    padding: 5px;
+}
+footer{
+    background-color: grey;
+    color: white;
+    font-size: 12px;
+    border: 3px solid black;
+}
+.profile{
+    background-color: #3E92CC;
+    text-align: center;
+    
+}
+.dropdown{
+    display: inline-block;
+}
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: blue;
+    color: black;
+    padding: 5px;
+    box-shadow: 5px 5px 10px black;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+
+}
+.active{
+    background-color: rgb(255, 47, 47);
+}
+.BloxFruits{
+    background-color: orange;
+    color: red;
+}
+.gametwo{
+    background-color: rgb(21, 250, 5);
+    color: blue;
+}
+.gamethree{
+    background-color: rgb(255, 200, 0);
+    color: rgb(251, 3, 3);
+}
